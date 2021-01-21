@@ -3,7 +3,10 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+I have many passions in life, but my biggest passion in life has always been art. From elementary school all the way to college it has been my favorite class. My love of art is what drew me to UX and Web Design. I love the way 
+that it allows me to be creative and apply skills I've learned over the years as an artist in a new way.
+
+
 
 Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
 
@@ -13,9 +16,12 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 
 #### Education
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+>Bacher of Science, State University at Albany   
+>Expected May 2022   
+>Dual Major in Informatics (Interactive User Experience) and Fine Arts   
+>Minor in Communications
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
 
-[1]: /img/about.jpg
+I'm currently seeking a challenging and engaging internship where I can enhance my design skills and exercise creativity.
+
+[1]: /img/aboutme.jpg
