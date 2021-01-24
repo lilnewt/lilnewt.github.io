@@ -12,10 +12,9 @@ weight = 7
 >2020 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+I love to make cards for friends and family, rather than buying them from a store. This painting was for the front a card for my brother on his birthday. It features him, his guitar, and his cat for a personalized feel you can't get 
+with a store bought card.   
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+The inspiration behind the image style came from vector portraits that are done digitally and simplify figures into more basic shapes and blocks of color.
+ I tried to capture that style but while handpainting it by omitting fine details and using a limited, more generalized, tonal range for each color.
 

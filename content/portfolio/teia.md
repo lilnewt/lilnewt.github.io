@@ -11,10 +11,8 @@ weight = 11
 >10"x10" 
 >2020 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Teia was painted for one of my first customers on Etsy. The color scheme going in was intended to contain lots of blues in the back, and white for the fur. As I progressed I started to incorporate more colors, including light pink, purple and mint tones
+to add depth and pops of color to her fur.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+This more muted, pastel color pallete was a welcomed change of pace from my usual bright colored pet portraits. The color scheme ended up being very subdued and almost atherial, making for a very serene memorial painting of Teia.
 
