@@ -7,10 +7,12 @@ title = "Parody of Robbert Flick"
 weight = 13
 +++
 
+
 >35mm Film and Resin Coated Paper   
 >8.5"x11"   
 >2019  
 <!--more-->
+![Example image](/img/portfolio/parody.jpg)
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

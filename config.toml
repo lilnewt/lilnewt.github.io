@@ -29,7 +29,7 @@ publishDir= "docs"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "lnewton@albany.edu"
+  email = "lilnewt5@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]

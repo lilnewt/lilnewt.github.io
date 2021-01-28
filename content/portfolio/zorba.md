@@ -11,6 +11,8 @@ weight = 6
 >12"x12"  
 >2020 
 <!--more-->
+![Example image](/img/portfolio/zorba.jpg)
+
 Zorba was painted using primarily a pallette knife to lay down general shapes and blocks of color. I went in with a brush for the finer details in the face and fur near the end. While creating the work, the goal 
 I was setting out to achieve through the colors and the mark making was to capture the expressive and vibrant personality of my partner's dog. 
 

@@ -11,6 +11,8 @@ weight = 11
 >10"x10" 
 >2020 <!--more-->
 
+![Example image](/img/portfolio/teia.jpg)
+
 Teia was painted for one of my first customers on Etsy. The color scheme going in was intended to contain lots of blues in the back, and white for the fur. As I progressed I started to incorporate more colors, including light pink, purple and mint tones
 to add depth and pops of color to her fur.
 
