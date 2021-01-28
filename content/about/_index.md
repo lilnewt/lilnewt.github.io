@@ -18,7 +18,7 @@ I'm currently seeking a challenging and engaging internship in User Experience D
 
 #### Education
 
->Bacher of Science, State University at Albany   
+>Bachelor of Science, State University at Albany   
 >Expected May 2022   
 >Dual Major in Informatics (Interactive User Experience) and Fine Arts   
 >Minor in Communications
