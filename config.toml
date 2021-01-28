@@ -57,5 +57,5 @@ publishDir= "docs"
   [params.social]
   email         = "lnewton@albany.edu"
   linkedin      = "https://www.linkedin.com/in/lilian-newton-403077182/"
-  instagram     = "full profile url in instagram"
-  etsy			= "https://www.etsy.com/shop/LilyNewtonArt?ref=seller-platform-mcnav"
+  instagram     = "https://www.instagram.com/lilynewtonart/"
+  
